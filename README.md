@@ -1,14 +1,17 @@
 # research-readings
-Here I try to jot down my understanding of the research papers I read. My plan is to update this repository on a weekly basis with atleast one paper notes. 
+Here I try to jot down my understanding of the research papers I read and also some concepts in ML I find interesting). My plan is to update this repository on a weekly basis. I concentrate majorly on deep learning, reinforcement learning and some math concepts. We are also maintaining [another repository](https://github.com/IvLabs/ResearchPaperNotes) where are cover robotics literature. Please check that out if you are a roboticist.
+  
 
 
 ## List of papers
-* [Radial Bayesian Neural Networks]()
-* [When do curricula work?]()
-* [Curriculum Learning in Reinforcement Learning]()
-* [Learning Agile and Dynamic Motor Skills for Legged Robots](https://)
-* [Reinforcement Learning via Fenchel Rockafellar Duality]()
-* [Off-Policy Actor-Critic]()
-* [Combining Physical Simulators and Object-Based Networks for Control]()
-* [Notes on Reproducing Kernel Hilbert Spaces]()
+* [Convexity and Convergence in Gradient Descent](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/ByIMT8Zg_)
+* [Notes on Stability of Dynamical Systems](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/rkq_V2Cyd)
+* [Radial Bayesian Neural Networks](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/SySL97y3D)
+* [When do curricula work?](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/rk-wOnG1u)
+* [Curriculum Learning in Reinforcement Learning](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/Sy0IVj8Ju)
+* [Learning Agile and Dynamic Motor Skills for Legged Robots](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/ByzYzEhVS)
+* [Reinforcement Learning via Fenchel Rockafellar Duality](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/rkZ5s2Y1P)
+* [Off-Policy Actor-Critic](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/BkcB-xwvI)
+* [Combining Physical Simulators and Object-Based Networks for Control](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/Sy6GPG9MB)
+* [Notes on Reproducing Kernel Hilbert Spaces](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/rkTjKdRMS)
 
