@@ -1,5 +1,5 @@
 # research-readings
-Here I try to jot down my understanding of the research papers I read and also some concepts in Math/ML I find interesting. My plan is to update this repository on a weekly basis. I concentrate majorly on deep learning, reinforcement learning and some math concepts. We are also maintaining [another repository](https://github.com/IvLabs/ResearchPaperNotes) where are cover robotics literature. Please check that out if you are a roboticist.
+Here I try to jot down my understanding of the research papers I read and also some concepts in Math/ML I find interesting. My plan is to update this repository on a weekly basis. I concentrate majorly on deep learning, reinforcement learning and some math concepts. We are also maintaining [another repository](https://github.com/IvLabs/ResearchPaperNotes) where we cover robotics literature. Please check that out if you are a roboticist.
   
 
 
