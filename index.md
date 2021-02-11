@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# My research readings
+Here I try to jot down my understanding of the research papers I read and also some concepts in Math/ML I find interesting. My plan is to update this repository on a weekly basis. I concentrate majorly on deep learning, reinforcement learning and some math concepts. We are also maintaining [another repository](https://github.com/IvLabs/ResearchPaperNotes) where we cover robotics literature. Please check that out if you are a roboticist.
+  
 
-You can use the [editor on GitHub](https://github.com/SharathRaparthy/research-readings/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SharathRaparthy/research-readings/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## List of papers
+* [Recurrent Independent Mechanisms](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/BkydH2cx_)
+* [Convexity and Convergence in Gradient Descent](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/ByIMT8Zg_)
+* [Notes on Stability of Dynamical Systems](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/rkq_V2Cyd)
+* [Radial Bayesian Neural Networks](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/SySL97y3D)
+* [When do curricula work?](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/rk-wOnG1u)
+* [Curriculum Learning in Reinforcement Learning](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/Sy0IVj8Ju)
+* [Learning Agile and Dynamic Motor Skills for Legged Robots](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/ByzYzEhVS)
+* [Reinforcement Learning via Fenchel Rockafellar Duality](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/rkZ5s2Y1P)
+* [Off-Policy Actor-Critic](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/BkcB-xwvI)
+* [Combining Physical Simulators and Object-Based Networks for Control](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/Sy6GPG9MB)
+* [Notes on Reproducing Kernel Hilbert Spaces](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/rkTjKdRMS)
