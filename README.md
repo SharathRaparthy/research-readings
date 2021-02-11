@@ -4,6 +4,7 @@ Here I try to jot down my understanding of the research papers I read and also s
 
 
 ## List of papers
+* [Recurrent Independent Mechanisms](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/BkydH2cx_)
 * [Convexity and Convergence in Gradient Descent](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/ByIMT8Zg_)
 * [Notes on Stability of Dynamical Systems](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/rkq_V2Cyd)
 * [Radial Bayesian Neural Networks](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/SySL97y3D)
