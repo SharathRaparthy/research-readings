@@ -4,6 +4,7 @@ Here I try to jot down my understanding of the research papers I read and also s
 
 
 ## List of papers
+* [Attention is All You Need](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/HyDfftcWu)
 * [Recurrent Independent Mechanisms](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/BkydH2cx_)
 * [Convexity and Convergence in Gradient Descent](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/ByIMT8Zg_)
 * [Notes on Stability of Dynamical Systems](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/rkq_V2Cyd)
