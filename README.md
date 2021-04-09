@@ -4,8 +4,8 @@ Here I try to jot down my understanding of the research papers I read and also s
 
 
 ## List of papers
-*[Universal Transformer](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/rJIXkXqHu)
-*[Stackelberg Actor-critic: A game theoretic perspective](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/rJFUQA1QO)
+* [Universal Transformer](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/rJIXkXqHu)
+* [Stackelberg Actor-critic: A game theoretic perspective](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/rJFUQA1QO)
 * [Opening the Black Box: Low-Dimensional Dynamics in High-Dimensional Recurrent Neural Networks](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/B1mLneEMu)
 * [Attention is All You Need](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/HyDfftcWu)
 * [Recurrent Independent Mechanisms](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/BkydH2cx_)
