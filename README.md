@@ -4,6 +4,7 @@ Here I try to jot down my understanding of the research papers I read and also s
 
 
 ## List of papers
+* [Deep Equilibrium Models ](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/HJwYkX9rd)
 * [Universal Transformer](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/rJIXkXqHu)
 * [Stackelberg Actor-critic: A game theoretic perspective](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/rJFUQA1QO)
 * [Opening the Black Box: Low-Dimensional Dynamics in High-Dimensional Recurrent Neural Networks](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/B1mLneEMu)
