@@ -4,6 +4,7 @@ Here I try to jot down my understanding of the research papers I read and also s
 
 
 ## List of papers
+* [Object Files and Schemata: Factorizing Declarative and Procedural Knowledge in Dynamical Systems](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/S1bZE-X3u)
 * [Neurips month](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/BJo5UNk9u)
 * [Deep Equilibrium Models ](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/HJwYkX9rd)
 * [Universal Transformer](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/rJIXkXqHu)
